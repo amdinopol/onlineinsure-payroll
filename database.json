@@ -1,0 +1,10 @@
+{
+    "dev": {
+      "driver": "mysql",
+      "host": "onlineinsure.c2vuyopt40gw.ap-southeast-1.rds.amazonaws.com",
+      "port": "3306",
+      "user": "onlineinsure",
+      "password": "onlineinsure",
+      "database": "onlineinsure"
+    }
+  }
