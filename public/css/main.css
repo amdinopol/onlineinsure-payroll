@@ -1,0 +1,13 @@
+* {
+    font-family: 'Poppins', sans-serif;
+}
+.navbar-button {
+    border: none;
+    outline: none !important;
+}
+#navbarNav .collapse .show {
+    text-align: center;
+    font-weight: 600;
+    font-size: 1.2rem;
+    margin-top: 2rem;
+}
